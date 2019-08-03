@@ -1,2 +1,2 @@
 # Evolution
-Projeto de machine learning utilizando Python.
+Algoritmo de machine learning utilizando Python.
